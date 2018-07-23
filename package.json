@@ -1,0 +1,25 @@
+{
+  "name": "the-rang-mail",
+  "version": "0.1.0",
+  "description": "mail plugin for the-rang",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "zenxds"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/user/repo.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "config": "^1.30.0",
+    "jest": "^23.4.1"
+  },
+  "dependencies": {
+    "extend2": "^1.0.0",
+    "nodemailer": "^4.6.7"
+  }
+}
