@@ -1,3 +1,3 @@
-# node-lib-boilerplate
+# the-rang-mail
 
-node lib boilerplate
+mail plugin for the-rang
